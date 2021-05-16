@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['btnTakePhoto',['$event']]]]]}}" bindtap="__e">拍照或从相册选择</button><image style="width:100%;" src="{{imagepath}}" mode="widthFix"></image><view style="text-align:center;">{{keyword}}</view><view style="text-align:center;">{{macherd}}</view></view>
